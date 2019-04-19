@@ -1,0 +1,12 @@
+# npm artifacts
+node_modules/
+package-lock.json
+.npm
+*.tgz
+
+# gatsby files
+.cache/
+public
+
+# vim
+*.swp
